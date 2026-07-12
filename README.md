@@ -1,19 +1,33 @@
-# AI Capstone
+# AI Capstone Project
 
-This is my AI-assisted capstone project.
+An AI-assisted capstone application built with modern development practices.
+
+## Goal
+
+Build a [describe the app] that helps [target users] by [core value].
+
+## Features
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
 
 ## Tech Stack
-- Node.js
+
+- **Runtime:** Node.js (>= 18)
+- **Language:** JavaScript (ES6+)
+- **Tools:** Git, GitHub, Cursor AI
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 18 or later
 - Git
-- GitHub
-- Cursor AI
 
-## Installation
+### Installation
 
-1. Install Node.js
-2. Clone this repository.
-3. Run `npm install`.
-
-## Author
-
-Mohammad Saud
+```bash
+git clone https://github.com/<your-username>/AI-Capstone.git
+cd AI-Capstone
+npm install
