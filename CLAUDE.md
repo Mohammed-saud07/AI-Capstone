@@ -29,3 +29,11 @@
 - Explain difficult code.
 - Keep code readable.
 >>>>>>> 6b90d01e3b05e3359159975bdba89872344e87fd
+
+## Project Rules
+
+- Always use controlled React components.
+- Add accessible labels to every form field.
+- Include validation before enabling submission.
+- Write tests for new UI components.
+- Verify generated code before committing.
