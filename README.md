@@ -11,5 +11,9 @@ This is my AI-assisted capstone project.
 ## Installation
 
 1. Install Node.js
-2. Clone the repository
-3. Run `npm install`
+2. Clone this repository.
+3. Run `npm install`.
+
+## Author
+
+Mohammad Saud
